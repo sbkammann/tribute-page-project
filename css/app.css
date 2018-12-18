@@ -1,2 +1,40 @@
 /*  The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.*/
 /*The img element should be centered within its parent element*/
+
+#title {
+  text-align: center;
+}
+#subtitle{
+  text-align: center;
+  font-size: 16px;
+}
+#timeline {
+  text-align: center;
+}
+#img-div{
+  margin: auto;
+  width: 33.3%;
+}
+#imgage{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#tribute-info {
+  max-width: 550px;
+  margin: auto;
+}
+#tribute-link {
+  display: block;
+  width: 33%;
+  margin: auto;
+}
+.backgroundColor{
+  background-color: lightgrey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+li {
+  text-align: justify;
+}
